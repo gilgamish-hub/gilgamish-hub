@@ -1,10 +1,21 @@
-## Hi, I'm Jatin 👋
+<h1 align="center">Hi, I'm Jatin Pal 👋</h1>
+
+<p align="center">
+  <a href="https://gilgamish-hub.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer+%C2%B7+Class+of+2027;Fine-tuning+transformers+that+ship;Building+LLM+apps+in+Python;Open+to+AI%2FML+and+GenAI+roles" alt="AI/ML Engineer · Fine-tuning transformers · Building LLM apps · Open to AI/ML and GenAI roles"></a>
+</p>
+
+<p align="center">
+  <a href="https://gilgamish-hub.github.io"><img src="https://img.shields.io/badge/Portfolio-gilgamish--hub.github.io-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jatin-pal-ba41a828a/"><img src="https://img.shields.io/badge/LinkedIn-Jatin_Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jatinpal300003@gmail.com"><img src="https://img.shields.io/badge/Email-jatinpal300003-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://huggingface.co/GILGAMISH"><img src="https://img.shields.io/badge/Hugging_Face-GILGAMISH-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+</p>
 
 Final-year B.Tech CSE (AI) student at Bennett University, graduating in 2027. I build machine learning and LLM applications in Python, and I report numbers measured on data the model has never seen.
 
-**Looking for:** AI/ML or Generative AI engineering roles · **Portfolio:** [gilgamish-hub.github.io](https://gilgamish-hub.github.io) · **Email:** jatinpal300003@gmail.com
+**Looking for:** AI/ML or Generative AI engineering roles. **[Resume (PDF)](https://gilgamish-hub.github.io/Jatin_Pal_Resume.pdf)**
 
-### Projects
+### 🚀 Projects
 
 | Project | What it does | Result | Try it |
 |---|---|---|---|
@@ -13,12 +24,15 @@ Final-year B.Tech CSE (AI) student at Bennett University, graduating in 2027. I 
 | [**Genetic Algorithm Feature Selection**](https://github.com/gilgamish-hub/genetic-feature-selection) | Mutual-information filter, then a genetic algorithm that trades accuracy against feature count | 30 features → 5, **94.7%** cross-validated accuracy | |
 | [**IT Support Agent**](https://github.com/gilgamish-hub/Veridian-Corp-) | Rule-based 5-stage pipeline that resolves IT requests with auditable, policy-backed decisions | 17 tests pass in CI; 15/15 scripted requests decided correctly | |
 
-### Tools I use
+### 🛠️ Tools I use
 
-**ML:** PyTorch · Hugging Face Transformers · Scikit-learn · TensorFlow/Keras
-**LLMs & NLP:** LangChain · RAG · Gemini API · Ollama
-**Engineering:** Python · FastAPI · Docker · Pytest · Git · Streamlit · C++ · SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,githubactions,cpp,java,mysql,mongodb&perline=13" alt="Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, FastAPI, Docker, Git, GitHub Actions, C++, Java, MySQL, MongoDB">
+</p>
 
-### Elsewhere
+Also: Hugging Face Transformers · LangChain · RAG · Gemini API · Ollama · Streamlit · Pytest
 
-[LinkedIn](https://www.linkedin.com/in/jatin-pal-ba41a828a/) · [Hugging Face](https://huggingface.co/GILGAMISH) · [Resume (PDF)](https://gilgamish-hub.github.io/Jatin_Pal_Resume.pdf)
+### 📌 Right now
+
+- Writing about what I build on [LinkedIn](https://www.linkedin.com/in/jatin-pal-ba41a828a/), one project a week
+- Practising data structures and algorithms in C++
