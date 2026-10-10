@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jatin Pal 👋</h1>
+<h1 align="center">Hi, I'm Jatin 👋</h1>
 
 <p align="center">
   <a href="https://gilgamish-hub.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer+%C2%B7+Class+of+2027;Fine-tuning+transformers+that+ship;Building+LLM+apps+in+Python;Open+to+AI%2FML+and+GenAI+roles" alt="AI/ML Engineer · Fine-tuning transformers · Building LLM apps · Open to AI/ML and GenAI roles"></a>
